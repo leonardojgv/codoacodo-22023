@@ -6,6 +6,7 @@ Proyecto integrador
 - Base de datos: **boleteria**
 - tabla: **shows**
 - Puerto utilizado: **6606**
+- archivo de volcado: **boleteria.sql**
 
 De requerir, cambiar el puerto de la conexion de la base de datos en el archivo
 **ConnectionSingleton.java**
