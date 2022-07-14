@@ -3,7 +3,7 @@
         <div class="modal-content">
             <div class="modal-header bg-dark text-white">
                 <h5 class="modal-title">
-                    <i class="bi bi-plus-circle-dotted me-3"></i> Nuevas entradas
+                    <i class="bi bi-plus-circle-dotted me-3"></i> Nuevo Show
                 </h5>
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>

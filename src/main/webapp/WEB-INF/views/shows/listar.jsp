@@ -4,7 +4,7 @@
     <div class="row">
         <div class="col-12">
             <button type="button" class="btn btn-primary btn-sm text-uppercase" data-bs-toggle="modal" data-bs-target="#agregarShowModal">
-                <i class="bi bi-plus-circle-dotted"></i> Nuevas show
+                <i class="bi bi-plus-circle-dotted"></i> Nuevo show
             </button>
             <%@include file="./components/modal.jsp" %> 
         </div>
