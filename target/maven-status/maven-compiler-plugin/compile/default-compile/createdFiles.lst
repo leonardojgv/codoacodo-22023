@@ -1,0 +1,4 @@
+Controller\ShowsController.class
+dao\ShowsDAO.class
+model\Show.class
+dao\ConnectionSingleton.class
